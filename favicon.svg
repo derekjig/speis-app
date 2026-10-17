@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Speis</title>
+  <rect width="512" height="512" fill="#F4F1EA"/>
+  <path d="M152 96H360V416L325.3 392L290.7 416L256 392L221.3 416L186.7 392L152 416Z" fill="#1E4D8C"/>
+  <path d="M200 176H312M200 232H312M200 288H264" stroke="#F4F1EA" stroke-width="24" stroke-linecap="round"/>
+</svg>
